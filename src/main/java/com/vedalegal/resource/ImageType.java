@@ -1,0 +1,5 @@
+package com.vedalegal.resource;
+
+public enum ImageType {
+    MAIN,DESC,COMPONENT,TAX,GST,GST_RETURN,DOCS,RETURN_APPLICATION,WHY_EASY_LAW,RECENT_UPDATES,
+}
